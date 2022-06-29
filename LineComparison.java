@@ -2,7 +2,7 @@ import java.util.*;
 public class LineComparison {
     public static void main(String[] args){
         Scanner pt=new Scanner(System.in);
-        System.out.println("****** UC1:Length of line on Cartesian ******");
+        System.out.println("***** UC1:Length of line on Cartesian *****");
         System.out.println("Enter Point 1:");
         int x1=pt.nextInt();
         int y1= pt.nextInt();
