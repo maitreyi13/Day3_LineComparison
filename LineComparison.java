@@ -1,5 +1,5 @@
 import java.util.*;
-public class UseCaseOne {
+public class LineComparison {
     public static void main(String[] args){
         Scanner pt=new Scanner(System.in);
         System.out.println("****** UC1:Length of line on Cartesian ******");
